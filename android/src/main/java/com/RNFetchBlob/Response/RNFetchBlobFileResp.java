@@ -1,6 +1,6 @@
 package com.RNFetchBlob.Response;
 
-import androidx.annotation.NonNull;
+import android.support.annotation.NonNull;
 
 import com.RNFetchBlob.RNFetchBlobConst;
 import com.RNFetchBlob.RNFetchBlobProgressConfig;
